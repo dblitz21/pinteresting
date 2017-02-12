@@ -87,6 +87,6 @@ Rails.application.configure do
 
   # Required for Heroku
   # Set to your actual host name
-  config.action_mailer.default_url_options = { host: 'https://blitz21-pinteresting.herokuapp.com/'}
+  config.action_mailer.default_url_options = { host: 'https://blitz-pinteresting.herokuapp.com/'}
 
 end
